@@ -17,7 +17,7 @@ Weather-Forecast-Application-Development
 ## Setup Instructions
 1. **Clone the repository**:
    ```
-   git clone <repository-url>
+   git clone < https://github.com/Kunal-2001-12/Weather-Forecast-Application.git >
    cd Weather-Forecast-Application-Development
    ```
 
